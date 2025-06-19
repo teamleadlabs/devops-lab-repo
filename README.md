@@ -1,2 +1,2 @@
 # devops-lab-repo
-##just checking if it worksk
+##just checking if it works
